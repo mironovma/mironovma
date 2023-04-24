@@ -21,7 +21,7 @@
 
 ```json
 {
-  "frontend": ["typescript", "react", "redux/@redux-toolkit" "next", "tailwindcss"],
+  "frontend": ["typescript", "react", "redux/@redux-toolkit" "next", "formik|react-hook-form", "tailwindcss"],
   "backend": ["typescript", "nodejs", "express", "firebase", "prisma", "mysql", "posgresql"],
   "other@alpha": ["linux", "webpack|vite", "git"],
   "ops@alpha": ["linux", "bash", "ssh","git", "gcp"]
