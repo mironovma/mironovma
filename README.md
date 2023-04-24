@@ -14,7 +14,7 @@
     <br>
     <🌱 /> I'm also learning backend to become fullstack.
     <br>
-    <🍺 /> Beside programming, I'am interested in finance, like stock market and crypto. Also I enjoy to play sports like cycling.
+    <🍺 /> Beside programming, I am interested in finance, like stock market and crypto. Also I enjoy to play sports like cycling.
 </p>
 
 ### Some technologies I like working with
