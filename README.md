@@ -2,7 +2,7 @@
  ✌<br>
   Hi there ― <br> 
   my name is Maxim, <br> 
-  frontend developer.
+  web developer.
 </h1>
 
 ### Some words about me
@@ -12,7 +12,7 @@
     <br>
     <☕️‍ /> When I'm not woking, I sometimes do some my pet-project's (Last: <a href="http://github.com/mironovma">@first_project</a>, <a href="http://github.com/mironovma">@second_project</a>).
     <br>
-    <🌱 /> I'm also learning backend to become fullstack.
+    <🌱 /> I'm also learning more technologies like react native and web3.
     <br>
     <🍺 /> Beside programming, I am interested in finance, like stock market and crypto. Also I enjoy to play sports like cycling.
 </p>
