@@ -22,7 +22,7 @@
 ```json
 {
   "frontend": ["typescript", "react", "redux/@redux-toolkit" "next", "formik|react-hook-form", "tailwindcss"],
-  "backend": ["typescript", "nodejs", "express", "firebase", "prisma", "mysql", "posgresql"],
+  "backend": ["typescript", "nodejs", "express", "firebase", "prisma", "mysql", "postgresql"],
   "other@alpha": ["linux", "webpack|vite", "git", "bash", "ssh"]
 }
 ```
