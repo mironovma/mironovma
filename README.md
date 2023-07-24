@@ -22,7 +22,7 @@ Last: <a href="https://github.com/chewmountain/pomodoro">Pomodoro</a> (todo list
 
 ```json
 {
-  "frontend": ["typescript", "reactjs", "redux/@redux-toolkit" "nextjs", "React query", "React Router", "React Lazy", "react query", "formik + yup|react-hook-form", "i18n", "sass", "css-modules", "styled-components" "tailwindcss", "MUI"],
+  "frontend": ["typescript", "reactjs", "redux/@redux-toolkit", "RTK Query", "nextjs", "React Router", "React Lazy", "react query", "formik + yup", "react-hook-form", "i18n", "sass", "css-modules", "styled-components" "tailwindcss", "MUI"],
   "backend": ["typescript", "nodejs", "express", "firebase", "prisma", "mysql", "postgresql"],
   "other@alpha": ["linux", "webpack|vite", "jest", "storybook", "loki", "linters", "babel", "CI/CD", "git"]
 }
