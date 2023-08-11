@@ -1,8 +1,8 @@
 <h1>
  ✌<br>
   Hi there ― <br> 
-  my name is Maxim, <br> 
-  web developer.
+  my name is Maxim,<br> 
+  I'm web developer.
 </h1>
 
 ### Some words about me
