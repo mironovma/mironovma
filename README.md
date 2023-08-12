@@ -27,7 +27,7 @@ Last: <a href="https://github.com/chewmountain/pomodoro">Pomodoro</a> (todo list
   "other@alpha": ["linux", "webpack|vite", "jest", "storybook", "loki", "linters", "babel", "CI/CD", "git"]
 }
 ```
-
+ 
 #### Contact me on [Telegram](https://t.me/mironov_ma).
 
 ### ― See ya! 👋
