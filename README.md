@@ -48,6 +48,6 @@ if ("🍪" && "☕") {
 }
 ```
  
-#### Contact me on [Telegram](https://t.me/mironov_ma).
+#### Contact me on [Telegram](https://t.me/mironov_ma)
 
 ― See ya! 👋
