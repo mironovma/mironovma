@@ -5,6 +5,8 @@ Software engineer with 3+ years of experience. Worked for innovative startups an
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&color=764ABC&logo=redux)
+![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=C69&logo=sass)
 
 
 ### Some technologies I like working with
