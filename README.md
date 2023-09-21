@@ -37,7 +37,8 @@ Software engineer with 3+ years of experience. Worked for innovative startups an
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&color=informational&logo=figma)
 ![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&color=informational&logo=adobephotoshop)
 ![](https://img.shields.io/badge/Tool-Illustrator-informational?style=flat&color=informational&logo=adobeillustrator)
-#### and more...
+
+and more...
 
 
 
