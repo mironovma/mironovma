@@ -1,22 +1,11 @@
-<h1>
- ✌<br>
-  Hi there ― <br> 
-  my name is Maxim,<br> 
-  I'm web developer. 
-</h1> 
+## 👋 Hello! 
+Software engineer with 3+ years of experience. Worked for innovative startups and award-winning agencies. I specialized in JavaScript technologies. Likes making products for peoples truly amazing. Always open to new things.
 
-### Some words about me
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
 
-<p>
-    🎯 I'm currently building <a href="https://github.com/chewmountain">sport_project</a>, this app helps to process large amounts of data for the organizers of sports events.
-    <br>
-    ☕️‍ When I'm not woking, I sometimes do some my pet-project's.
-Last: <a href="https://github.com/chewmountain/pomodoro">Pomodoro</a> (todo list with pomodoro technique), <a href="https://github.com/chewmountain">@second_project</a>.
-    <br>
-    🌱 I'm also learning more technologies like react native and web3.
-    <br>
-    🍺 Beside programming, I am interested in finance, like stock market and crypto. Also I enjoy to play sports like cycling.
-</p>
 
 ### Some technologies I like working with
 
