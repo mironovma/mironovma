@@ -27,6 +27,7 @@ Software engineer with 3+ years of experience. Worked for innovative startups an
 ![](https://img.shields.io/badge/Tool-Vite-informational?style=flat&color=informational&logo=vite)
 
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=informational&logo=git)
+![](https://img.shields.io/badge/FSD_Architecture-green)
 
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=C69&logo=sass)
 ![](https://img.shields.io/badge/Tool-CSS_modules-informational?style=flat&color=informational&logo=cssmodules)
