@@ -15,7 +15,10 @@ Software engineer with 3+ years of experience. Worked for innovative startups an
 ![](https://img.shields.io/badge/Tool-axios-informational?style=flat&color=informational&logo=axios)
 ![](https://img.shields.io/badge/Tool-i18n-informational?style=flat&color=informational&logo=i18next)
 
-![](https://img.shields.io/badge/Tool-jest-informational?style=flat&color=informational&logo=Jest)
+![](https://img.shields.io/badge/Test-jest-informational?style=flat&color=informational&logo=Jest)
+![](https://img.shields.io/badge/Test-React_Testing_Library-informational?style=flat&color=informational&logo=testinglibrary)
+
+
 ![](https://img.shields.io/badge/Tool-Storybook-informational?style=flat&color=informational&logo=storybook)
 ![](https://img.shields.io/badge/Tool-Chromatic-informational?style=flat&color=informational&logo=chromatic)
 
