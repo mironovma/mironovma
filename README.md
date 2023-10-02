@@ -44,7 +44,8 @@ Software engineer with 3+ years of experience. Worked for innovative startups an
 ![](https://img.shields.io/badge/Tool-CSS_modules-informational?style=flat&color=informational&logo=cssmodules)
 ![](https://img.shields.io/badge/Tool-Styled_components-informational?style=flat&color=informational&logo=styled-components)
 ![](https://img.shields.io/badge/Tool-Tailwind-informational?style=flat&color=informational&logo=tailwindcss)
-![](https://img.shields.io/badge/Tool-MUI-informational?style=flat&color=informational&logo=mui)
+![](https://img.shields.io/badge/UI-MUI-informational?style=flat&color=informational&logo=mui)
+![](https://img.shields.io/badge/UI-HeadlessUI-informational?style=flat&color=informational&logo=headlessui)
 
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&color=informational&logo=figma)
 ![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&color=informational&logo=adobephotoshop)
