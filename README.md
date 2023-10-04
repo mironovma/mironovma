@@ -57,7 +57,7 @@ and more...
 
 ```javascript
 if ("🍪" && "☕") {
-  letsCode()
+  letsCode();
 }
 ```
  
