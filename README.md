@@ -7,6 +7,8 @@ Software engineer with 3+ years of experience. Worked for innovative startups an
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=informational&logo=nextdotjs)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&color=764ABC&logo=redux)
+![](https://img.shields.io/badge/Code-Redux_thunk-informational?style=flat&color=764ABC&logo=redux)
+![](https://img.shields.io/badge/Code-RTK_Query-informational?style=flat&color=764ABC&logo=redux)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&color=informational&logo=nodedotjs)
 
 ![](https://img.shields.io/badge/Tool-react_router-informational?style=flat&color=informational&logo=reactrouter)
