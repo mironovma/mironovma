@@ -41,6 +41,7 @@ Software engineer with 3+ years of experience. Worked for innovative startups an
 
 ![](https://img.shields.io/badge/Deploy-Vercel-informational?style=flat&color=informational&logo=vercel)
 ![](https://img.shields.io/badge/Deploy-Netlify-informational?style=flat&color=informational&logo=netlify)
+![](https://img.shields.io/badge/Deploy-Firebase-informational?style=flat&color=informational&logo=firebase)
 
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=C69&logo=sass)
 ![](https://img.shields.io/badge/Tool-CSS_modules-informational?style=flat&color=informational&logo=cssmodules)
