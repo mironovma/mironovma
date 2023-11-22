@@ -60,7 +60,7 @@ Software engineer working since 2020. Worked for innovative startups and digital
 and more...
 
 
-![LeetCode Stats](https://leetcode.card.workers.dev/mironov_ma?theme=dark&font=baloo)<br />
+![LeetCode Stats](https://leetcode.card.workers.dev/mironov_ma?theme=dark&font=baloo)<br /><br />
 [![codewars](https://www.codewars.com/users/mironov_ma/badges/large)](https://www.codewars.com/users/mironov_ma)   
 
 
