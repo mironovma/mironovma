@@ -9,6 +9,7 @@ Software engineer working since 2019. Worked for innovative startups and digital
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&color=764ABC&logo=redux)
 ![](https://img.shields.io/badge/Code-Redux_thunk-informational?style=flat&color=764ABC&logo=redux)
 ![](https://img.shields.io/badge/Code-RTK_Query-informational?style=flat&color=764ABC&logo=redux)
+![](https://img.shields.io/badge/Code-zustand-informational?style=flat&color=informational&logo=zustand)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&color=informational&logo=nodedotjs)
 
 ![](https://img.shields.io/badge/Tool-react_router-informational?style=flat&color=informational&logo=reactrouter)
