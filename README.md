@@ -14,6 +14,7 @@ Software engineer working since 2019. Worked for innovative startups and digital
 ![](https://img.shields.io/badge/Tool-react_router-informational?style=flat&color=informational&logo=reactrouter)
 ![](https://img.shields.io/badge/Tool-react_hook_form-informational?style=flat&color=informational&logo=reacthookform)
 ![](https://img.shields.io/badge/Tool-React_Query-informational?style=flat&color=informational&logo=reactquery)
+![](https://img.shields.io/badge/Tool-zod-informational?style=flat&color=informational&logo=zod)
 ![](https://img.shields.io/badge/Tool-axios-informational?style=flat&color=informational&logo=axios)
 ![](https://img.shields.io/badge/Tool-i18n-informational?style=flat&color=informational&logo=i18next)
 
@@ -50,6 +51,7 @@ Software engineer working since 2019. Worked for innovative startups and digital
 ![](https://img.shields.io/badge/Tool-Tailwind-informational?style=flat&color=informational&logo=tailwindcss)
 ![](https://img.shields.io/badge/UI-MUI-informational?style=flat&color=informational&logo=mui)
 ![](https://img.shields.io/badge/UI-HeadlessUI-informational?style=flat&color=informational&logo=headlessui)
+![](https://img.shields.io/badge/UI-shadcn/ui-informational?style=flat&color=informational&logo=shadcnui)
 
 ![](https://img.shields.io/badge/Tool-nginx-informational?style=flat&color=informational&logo=nginx)
 
