@@ -1,5 +1,5 @@
 ## 👋 Hello! 
-Software engineer working since 2019. Worked for innovative startups and digital agencies. I specialized in JavaScript technologies. Likes making amazing products for peoples. Always open to new things 🙌
+Software engineer working since 2019. Worked for innovative startups and digital agencies. I specialized in JavaScript technologies. Likes making amazing products for peoples. Always open to new things 🙌 
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
