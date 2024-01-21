@@ -56,6 +56,7 @@ Software engineer working since 2020. Worked for innovative startups and digital
 ![](https://img.shields.io/badge/UI-shadcn/ui-informational?style=flat&color=informational&logo=shadcnui)
 
 ![](https://img.shields.io/badge/Tool-nginx-informational?style=flat&color=informational&logo=nginx)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=informational&logo=docker)
 
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&color=informational&logo=figma)
 ![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&color=informational&logo=adobephotoshop)
