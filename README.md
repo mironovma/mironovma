@@ -40,7 +40,10 @@ Software engineer working since 2020. Worked for innovative startups and digital
 ![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat&color=informational&logo=postgresql)
 
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=informational&logo=git)
+![](https://img.shields.io/badge/Tool-nginx-informational?style=flat&color=informational&logo=nginx)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=informational&logo=docker)
 ![](https://img.shields.io/badge/FSD_Architecture-green)
+![](https://img.shields.io/badge/Module_Architecture-green)
 
 ![](https://img.shields.io/badge/Deploy-Vercel-informational?style=flat&color=informational&logo=vercel)
 ![](https://img.shields.io/badge/Deploy-Netlify-informational?style=flat&color=informational&logo=netlify)
@@ -54,9 +57,6 @@ Software engineer working since 2020. Worked for innovative startups and digital
 ![](https://img.shields.io/badge/UI-MUI-informational?style=flat&color=informational&logo=mui)
 ![](https://img.shields.io/badge/UI-HeadlessUI-informational?style=flat&color=informational&logo=headlessui)
 ![](https://img.shields.io/badge/UI-shadcn/ui-informational?style=flat&color=informational&logo=shadcnui)
-
-![](https://img.shields.io/badge/Tool-nginx-informational?style=flat&color=informational&logo=nginx)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=informational&logo=docker)
 
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&color=informational&logo=figma)
 ![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&color=informational&logo=adobephotoshop)
