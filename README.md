@@ -44,6 +44,7 @@ Software engineer working since 2020. Worked for innovative startups and digital
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=informational&logo=docker)
 ![](https://img.shields.io/badge/FSD_Architecture-green)
 ![](https://img.shields.io/badge/Module_Architecture-green)
+![](https://img.shields.io/badge/Microfrontend-green)
 
 ![](https://img.shields.io/badge/Deploy-Vercel-informational?style=flat&color=informational&logo=vercel)
 ![](https://img.shields.io/badge/Deploy-Netlify-informational?style=flat&color=informational&logo=netlify)
